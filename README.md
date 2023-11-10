@@ -1,7 +1,7 @@
 <h1 align="center">Project Description: Sales Insights Automation for AtliQ Hardware</h1>
 <h3 align="center">Empowering Sales Decision-Making through Data Analytics</h3>
 
-<img align='right' alt="Data Analysis" width="400" src="https://your-image-url.com/your-image.png">
+<img align='right' alt="Data Analysis" width="400" src="https://github.com/burhanuddink/Sales-Insights-Analysis/blob/main/Dashboard.png">
 
 
 <h3 align="left">Introduction</h3>
